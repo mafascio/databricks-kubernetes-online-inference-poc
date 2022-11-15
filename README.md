@@ -1,5 +1,5 @@
 # Proof-of-Concept: Online Inference with Databricks and Kubernetes on Azure
-## feature-b-mc 
+## feature-b-mc merged to main
 ## Overview
 
 > For additional insights into applying this approach to operationalize your machine learning workloads refer to this article — [Machine Learning at Scale with Databricks and Kubernetes](https://medium.com/@nfmoore/machine-learning-at-scale-with-databricks-and-kubernetes-9fa59232bfa6)
