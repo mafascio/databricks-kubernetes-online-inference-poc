@@ -13,6 +13,10 @@
 
 # COMMAND ----------
 
+#feature-b-mc notebook for test
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC 
 # MAGIC #### Import dependencies and pre-process data data
@@ -389,4 +393,4 @@ pprint(model_output, width=120, compact=True)
 
 # COMMAND ----------
 
-
+#test ok # feature-b-mc to be merged with main
