@@ -1,5 +1,9 @@
 # Proof-of-Concept: Online Inference with Databricks and Kubernetes on Azure
+
+## feature-b-mc for testing model develop notebook (interactively)
+
 ## feature-b-mc merged to main (model develop test run OK)
+
 ## Overview
 
 > For additional insights into applying this approach to operationalize your machine learning workloads refer to this article — [Machine Learning at Scale with Databricks and Kubernetes](https://medium.com/@nfmoore/machine-learning-at-scale-with-databricks-and-kubernetes-9fa59232bfa6)
